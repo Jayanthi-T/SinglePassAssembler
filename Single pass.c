@@ -51,7 +51,7 @@ int search(char var2[])
     return 20;
 }
 main()
-{
+{ 
     int i;
    strcpy(nem[0].op_code,"ADD");
     strcpy(nem[0].class1,"IS");
