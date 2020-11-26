@@ -7,7 +7,7 @@ char op_code[7];
 char class1[3]; 
 char info[3]; 
 }nem[20];
-int checkreg(char var1[])
+int checkreg(char var1[]) 
     {
         if(strcmp(var1,"AREG")==0)
             return 1;
