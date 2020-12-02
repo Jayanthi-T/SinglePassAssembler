@@ -95,7 +95,7 @@ main()
     strcpy(nem[13].op_code,"LTROG");
     strcpy(nem[13].class1,"AD");
     strcpy(nem[13].info,"03");
-    strcpy(nem[14].op_code,"EQU");
+    strcpy(nem[14].op_code,"EQU"); 
     strcpy(nem[14].class1,"AD");
     strcpy(nem[14].info,"04");
     strcpy(nem[15].op_code,"ORIGIN");
