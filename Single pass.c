@@ -173,7 +173,7 @@ main()
                 ad=checksym(var1+0);
                 add[ad]=lc;
                 mac[m][0]=lc;
-                mac[m][1]=11;
+                mac[m][1]=11; 
                 mac[m][2]=1;
                 mac[m][3]=111;
                 if(strcmp(nem[no].info,"01")==0)
