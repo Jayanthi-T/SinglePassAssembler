@@ -52,7 +52,7 @@ int search(char var2[])
 }
 main()
 { 
-    int i;
+    int i; 
    strcpy(nem[0].op_code,"ADD");
     strcpy(nem[0].class1,"IS");
     strcpy(nem[0].info,"01");
