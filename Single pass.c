@@ -24,7 +24,7 @@ int insert(char var[])
 {
     static int i=1;
     strcpy(symb1[i],var);
-    i+=1;
+    i+=1; 
     return 0; 
 }
 int checksym(char var[])
