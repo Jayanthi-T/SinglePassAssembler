@@ -75,7 +75,7 @@ main()
     strcpy(nem[6].class1,"IS");
     strcpy(nem[6].info,"00");
     strcpy(nem[7].op_code,"BC");
-    strcpy(nem[7].class1,"IS");
+    strcpy(nem[7].class1,"IS"); 
     strcpy(nem[7].info,"07");
     strcpy(nem[8].op_code,"DIV");
     strcpy(nem[8].class1,"IS");
