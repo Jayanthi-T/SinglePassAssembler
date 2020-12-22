@@ -2,7 +2,7 @@
 #include<conio.h> 
 #include<string.h>
 struct menumonic_table  
-{
+{ 
 char op_code[7]; 
 char class1[3]; 
 char info[3]; 
